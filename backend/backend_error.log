@@ -1,0 +1,422 @@
+[2025-07-11T06:31:32.683Z] generateChatResponse Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Stack: Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+    at validateChatHistory (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1052:19)
+    at new ChatSession (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1149:13)
+    at GenerativeModel.startChat (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1401:16)
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:180:28)
+    at C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:221:34
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+[2025-07-11T06:31:32.686Z] Error in chatbot interaction: Chat Response Generation Failed: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Stack: Error: Chat Response Generation Failed: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:194:15)
+    at C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:221:34
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2025-07-11T06:31:54.214Z] generateChatResponse Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Stack: Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+    at validateChatHistory (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1052:19)
+    at new ChatSession (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1149:13)
+    at GenerativeModel.startChat (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1401:16)
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:180:28)
+    at C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:221:34
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+[2025-07-11T06:31:54.217Z] Error in chatbot interaction: Chat Response Generation Failed: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Stack: Error: Chat Response Generation Failed: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:194:15)
+    at C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:221:34
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2025-07-11T06:33:03.888Z] generateChatResponse Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Stack: Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+    at validateChatHistory (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1052:19)
+    at new ChatSession (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1149:13)
+    at GenerativeModel.startChat (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1401:16)
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:180:28)
+    at C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:221:34
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+[2025-07-11T06:33:03.895Z] Error in chatbot interaction: Chat Response Generation Failed: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Stack: Error: Chat Response Generation Failed: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:194:15)
+    at C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:221:34
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2025-07-11T06:40:02.676Z] generateChatResponse Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Stack: Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+    at validateChatHistory (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1052:19)
+    at new ChatSession (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1149:13)
+    at GenerativeModel.startChat (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1401:16)
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:180:28)
+    at C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:221:34
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+[2025-07-11T06:40:02.679Z] Error in chatbot interaction: Chat Response Generation Failed: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Stack: Error: Chat Response Generation Failed: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:194:15)
+    at C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:221:34
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2025-07-11T06:42:03.677Z] generateChatResponse Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Stack: Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+    at validateChatHistory (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1052:19)
+    at new ChatSession (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1149:13)
+    at GenerativeModel.startChat (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1401:16)
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:187:28)
+    at C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:221:34
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+[2025-07-11T06:42:03.680Z] Error in chatbot interaction: Chat Response Generation Failed: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Stack: Error: Chat Response Generation Failed: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:201:15)
+    at C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:221:34
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2025-07-11T06:44:40.061Z] generateChatResponse Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Stack: Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+    at validateChatHistory (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1052:19)
+    at new ChatSession (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1149:13)
+    at GenerativeModel.startChat (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1401:16)
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:198:28)
+    at C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:221:34
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+[2025-07-11T06:44:40.064Z] Error in chatbot interaction: Chat Response Generation Failed: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Stack: Error: Chat Response Generation Failed: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:214:15)
+    at C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:221:34
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2025-07-11T06:47:31.933Z] generateChatResponse Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Stack: Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+    at validateChatHistory (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1052:19)
+    at new ChatSession (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1149:13)
+    at GenerativeModel.startChat (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1401:16)
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:198:28)
+    at C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:221:34
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+[2025-07-11T06:47:31.936Z] Error in chatbot interaction: Chat Response Generation Failed: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Stack: Error: Chat Response Generation Failed: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:214:15)
+    at C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:221:34
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2025-07-11T06:48:41.590Z] generateChatResponse Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Stack: Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+    at validateChatHistory (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1052:19)
+    at new ChatSession (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1149:13)
+    at GenerativeModel.startChat (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1401:16)
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:198:28)
+    at C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:221:34
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+[2025-07-11T06:48:41.592Z] Error in chatbot interaction: Chat Response Generation Failed: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Stack: Error: Chat Response Generation Failed: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:214:15)
+    at C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:221:34
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2025-07-11T06:48:59.539Z] generateChatResponse Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Stack: Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+    at validateChatHistory (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1052:19)
+    at new ChatSession (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1149:13)
+    at GenerativeModel.startChat (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1401:16)
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:198:28)
+    at C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:221:34
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+[2025-07-11T06:48:59.541Z] Error in chatbot interaction: Chat Response Generation Failed: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Stack: Error: Chat Response Generation Failed: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:214:15)
+    at C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:221:34
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2025-07-11T06:49:22.135Z] analyzeTicketRequest Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+Stack: Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+    at handleResponseNotOk (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:434:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async makeRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:403:9)
+    at async generateContent (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:867:22)
+    at async analyzeTicketRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:100:24)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:74:28
+
+
+
+--- CRITICAL ERROR IN TICKET CREATION PROCESS ---
+Timestamp: 2025-07-11T06:49:22.136Z
+Error Name: Error
+Error Message: LLM Analysis Failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+Error Stack:
+Error: LLM Analysis Failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+    at analyzeTicketRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:110:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:74:28
+--- END TICKET CREATION PROCESS: ERROR ---
+
+[2025-07-11T06:51:55.644Z] analyzeTicketRequest Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+Stack: Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+    at handleResponseNotOk (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:434:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async makeRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:403:9)
+    at async generateContent (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:867:22)
+    at async analyzeTicketRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:100:24)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:74:28
+
+
+
+--- CRITICAL ERROR IN TICKET CREATION PROCESS ---
+Timestamp: 2025-07-11T06:51:55.645Z
+Error Name: Error
+Error Message: LLM Analysis Failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+Error Stack:
+Error: LLM Analysis Failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+    at analyzeTicketRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:107:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:74:28
+--- END TICKET CREATION PROCESS: ERROR ---
+
+[2025-07-11T07:01:55.578Z] generateChatResponse Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Stack: Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+    at validateChatHistory (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1052:19)
+    at new ChatSession (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1149:13)
+    at GenerativeModel.startChat (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1401:16)
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:213:28)
+    at C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:221:34
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+[2025-07-11T07:01:55.582Z] Error in chatbot interaction: Chat Response Generation Failed: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Stack: Error: Chat Response Generation Failed: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:227:15)
+    at C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:221:34
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2025-07-11T07:11:45.141Z] analyzeTicketRequest Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+Stack: Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+    at handleResponseNotOk (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:434:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async makeRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:403:9)
+    at async generateContent (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:867:22)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:140:20
+    at async retryOperation (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:36:20)
+    at async analyzeTicketRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:139:24)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:74:28
+
+
+
+--- CRITICAL ERROR IN TICKET CREATION PROCESS ---
+Timestamp: 2025-07-11T07:11:45.143Z
+Error Name: Error
+Error Message: LLM Analysis Failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+Error Stack:
+Error: LLM Analysis Failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+    at analyzeTicketRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:148:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:74:28
+--- END TICKET CREATION PROCESS: ERROR ---
+
+[2025-07-11T07:12:41.790Z] generateChatResponse Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+Stack: Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+    at handleResponseNotOk (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:434:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async makeRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:403:9)
+    at async generateContent (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:867:22)
+    at async ChatSession.sendMessage (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1210:9)
+    at async generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:220:24)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:125:34
+
+
+
+--- CRITICAL ERROR IN TICKET CREATION PROCESS ---
+Timestamp: 2025-07-11T07:12:41.791Z
+Error Name: Error
+Error Message: Chat Response Generation Failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+Error Stack:
+Error: Chat Response Generation Failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:229:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:125:34
+--- END TICKET CREATION PROCESS: ERROR ---
+
+[2025-07-11T07:29:23.376Z] 404 Not Found: POST /api/login
+[2025-07-11T07:30:56.800Z] 404 Not Found: POST /api/login
+[2025-07-11T07:37:23.585Z] Error during login: Invalid column name 'Password'.
+Stack: RequestError: Invalid column name 'Password'.
+    at handleError (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\mssql\lib\tedious\request.js:384:15)
+    at Connection.emit (node:events:518:28)
+    at Connection.emit (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\tedious\lib\connection.js:970:18)
+    at RequestTokenHandler.onErrorMessage (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\tedious\lib\token\handler.js:284:21)
+    at Readable.<anonymous> (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\tedious\lib\token\token-stream-parser.js:19:33)
+    at Readable.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushObjectMode (node:internal/streams/readable:538:3)
+    at Readable.push (node:internal/streams/readable:393:5)
+    at nextAsync (node:internal/streams/from:194:22)
+[2025-07-11T07:49:25.238Z] analyzeTicketRequest Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at async makeRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:397:20)
+    at async generateContent (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:867:22)
+    at async analyzeTicketRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:133:24)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:81:22
+
+
+
+--- CRITICAL ERROR IN TICKET CREATION PROCESS ---
+Timestamp: 2025-07-11T07:49:25.253Z
+Error Name: Error
+Error Message: LLM Analysis Failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: fetch failed
+Error Stack:
+Error: LLM Analysis Failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: fetch failed
+    at analyzeTicketRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:140:15)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:81:22
+--- END TICKET CREATION PROCESS: ERROR ---
+
+[2025-07-11T07:53:14.023Z] analyzeTicketRequest Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+Stack: Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+    at handleResponseNotOk (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:434:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async makeRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:403:9)
+    at async generateContent (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:867:22)
+    at async analyzeTicketRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:133:24)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:81:22
+
+
+
+--- CRITICAL ERROR IN TICKET CREATION PROCESS ---
+Timestamp: 2025-07-11T07:53:14.024Z
+Error Name: Error
+Error Message: LLM Analysis Failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+Error Stack:
+Error: LLM Analysis Failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+    at analyzeTicketRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:140:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:81:22
+--- END TICKET CREATION PROCESS: ERROR ---
+
+[2025-07-25T06:57:27.004Z] generateChatResponse Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Stack: Error: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+    at validateChatHistory (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1052:19)
+    at new ChatSession (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1149:13)
+    at GenerativeModel.startChat (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:1401:16)
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:232:28)
+    at C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:260:47
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+[2025-07-25T06:57:27.009Z] Chat AI Response Generation Failed for Ticket 1002: Chat Response Generation Failed: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+Stack: Error: Chat Response Generation Failed: [GoogleGenerativeAI Error]: First content should be with role 'user', got model
+    at generateChatResponse (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:251:15)
+    at C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:260:47
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+[2026-05-28T07:58:35.954Z] analyzeTicketRequest Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+Stack: Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+    at handleResponseNotOk (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:434:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async makeRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:403:9)
+    at async generateContent (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:867:22)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:142:20
+    at async retryOperation (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:37:20)
+    at async analyzeTicketRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:141:24)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:81:22
+
+
+
+--- CRITICAL ERROR IN TICKET CREATION PROCESS ---
+Timestamp: 2026-05-28T07:58:35.957Z
+Error Name: Error
+Error Message: LLM Analysis Failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+Error Stack:
+Error: LLM Analysis Failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+    at analyzeTicketRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:150:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:81:22
+--- END TICKET CREATION PROCESS: ERROR ---
+
+[2026-05-28T08:06:05.463Z] analyzeTicketRequest Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent: [404 Not Found] models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+Stack: Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent: [404 Not Found] models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+    at handleResponseNotOk (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:434:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async makeRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:403:9)
+    at async generateContent (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:867:22)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:142:20
+    at async retryOperation (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:37:20)
+    at async analyzeTicketRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:141:24)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:81:22
+
+
+
+--- CRITICAL ERROR IN TICKET CREATION PROCESS ---
+Timestamp: 2026-05-28T08:06:05.466Z
+Error Name: Error
+Error Message: LLM Analysis Failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent: [404 Not Found] models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+Error Stack:
+Error: LLM Analysis Failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent: [404 Not Found] models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+    at analyzeTicketRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:150:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:81:22
+--- END TICKET CREATION PROCESS: ERROR ---
+
+[2026-05-28T08:06:23.204Z] analyzeTicketRequest Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent: [404 Not Found] models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+Stack: Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent: [404 Not Found] models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+    at handleResponseNotOk (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:434:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async makeRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:403:9)
+    at async generateContent (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:867:22)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:142:20
+    at async retryOperation (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:37:20)
+    at async analyzeTicketRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:141:24)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:81:22
+
+
+
+--- CRITICAL ERROR IN TICKET CREATION PROCESS ---
+Timestamp: 2026-05-28T08:06:23.205Z
+Error Name: Error
+Error Message: LLM Analysis Failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent: [404 Not Found] models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+Error Stack:
+Error: LLM Analysis Failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent: [404 Not Found] models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+    at analyzeTicketRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:150:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:81:22
+--- END TICKET CREATION PROCESS: ERROR ---
+
+[2026-05-28T08:08:22.699Z] analyzeTicketRequest Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent: [404 Not Found] models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+Stack: Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent: [404 Not Found] models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+    at handleResponseNotOk (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:434:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async makeRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:403:9)
+    at async generateContent (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:867:22)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:142:20
+    at async retryOperation (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:37:20)
+    at async analyzeTicketRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:141:24)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:81:22
+
+
+
+--- CRITICAL ERROR IN TICKET CREATION PROCESS ---
+Timestamp: 2026-05-28T08:08:22.702Z
+Error Name: Error
+Error Message: LLM Analysis Failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent: [404 Not Found] models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+Error Stack:
+Error: LLM Analysis Failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent: [404 Not Found] models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+    at analyzeTicketRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:150:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:81:22
+--- END TICKET CREATION PROCESS: ERROR ---
+
+[2026-05-28T08:11:39.656Z] analyzeTicketRequest Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent: [404 Not Found] models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+Stack: Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent: [404 Not Found] models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+    at handleResponseNotOk (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:434:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async makeRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:403:9)
+    at async generateContent (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\node_modules\@google\generative-ai\dist\index.js:867:22)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:142:20
+    at async retryOperation (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:37:20)
+    at async analyzeTicketRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:141:24)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:81:22
+
+
+
+--- CRITICAL ERROR IN TICKET CREATION PROCESS ---
+Timestamp: 2026-05-28T08:11:39.659Z
+Error Name: Error
+Error Message: LLM Analysis Failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent: [404 Not Found] models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+Error Stack:
+Error: LLM Analysis Failed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent: [404 Not Found] models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+    at analyzeTicketRequest (C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\services\llmService.js:150:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async C:\Users\HP\OneDrive\Desktop\Ticket-Management-Project\backend\server.js:81:22
+--- END TICKET CREATION PROCESS: ERROR ---
+
